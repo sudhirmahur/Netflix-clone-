@@ -1,2 +1,3 @@
 # Netflix-clone-
-this tamplate is Netflix clone 
+this tamplate is Netflix clone
+
